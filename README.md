@@ -1,3 +1,3 @@
-codewars JS-1
+codewars JS-FUNDAMENTALS-1
 
 Find the divisors!
